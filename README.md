@@ -22,4 +22,4 @@ XGBoosting
 
 fast.ai
 -------
-Chunk0									3.14802
+10M	10 Epochs							3.14802
